@@ -1,6 +1,9 @@
 <h1 align="center">Worm-GPT<br>
 </h1>
 <img src="WormGPT.png" alt="Paris" class="center">
+
+WormGPT is a malicious AI tool promoted on the dark web as the adversary of ChatGPT. Used by Black Hat Hacker in Hacking 
+
 ## Disclaimer
 
 Please be aware of the following disclaimer before using this tool:
